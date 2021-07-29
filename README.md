@@ -5,7 +5,7 @@
 ---
 ## **Background**
 
-Mortgages, student and auto loans, and debt consolidation are just a few examples of credit and loans that people seek online. Peer-to-peer lending services such as Loans Canada and Mogo let investors loan people money without using a bank. However, because investors always want to mitigate risk, it imperative to predict and control credit risk.
+Mortgages, student and auto loans, and debt consolidation are few examples of credit and loans that people seek online. Peer-to-peer lending services such as Loans Canada and Mogo let investors loan people money without using a bank. Investors always want to mitigate risk, hence it imperative to predict and control credit risk.
 
 ---
 ## **Objective**
@@ -71,6 +71,8 @@ B. **Ensemble Learning**
  12. imblearn.combine
  11. Collections
  12. Jupyter Notebook
+ 13. imblearn.ensemble
+ 
 
 ---
 ## **Data**
