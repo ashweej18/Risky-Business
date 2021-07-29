@@ -43,10 +43,6 @@ A.  **Resampling**
 
 B. **Ensemble Learning**
 
-In this section, you will train and compare two different ensemble classifiers to predict loan risk and evaluate each model. You will use the [Balanced Random Forest Classifier](https://imbalanced-learn.org/stable/references/generated/imblearn.ensemble.BalancedRandomForestClassifier.html) and the [Easy Ensemble Classifier](https://imbalanced-learn.org/stable/references/generated/imblearn.ensemble.EasyEnsembleClassifier.html). Refer to the documentation for each of these to read about the models and see examples of the code.
-
-To begin:
-
 1. Read the loand data into a Pandas DataFrame 
 
 2. Split the data into training and testing sets using `train_test_split`
